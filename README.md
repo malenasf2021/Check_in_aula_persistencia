@@ -86,22 +86,22 @@ Thumbs.db
 ### Persistencia de Datos
 
 #### Interfaz Gráfica
-Además de los datos "hardacodeados" de demostración (Ana, Luis y Camila) se agregaron otros tres más:
+Además de los datos "hardcodeados" de demostración (Ana, Luis y Camila) se agregaron otros tres más:
 
-![Interfaz GUI de Check-in Aula](images/Gui_1.jpg)
+![Interfaz GUI inicial](images/Gui_1.jpg)
 
 #### Funcionamiento en Consola
-Luego se ejecutó en consola y esos datos persisitieron: 
+Luego se ejecutó en consola y esos datos persistieron: 
 
-![Versión consola del sistema](images/Consola_1.jpg)
+![Consola - datos persistentes](images/Consola_1.jpg)
 
 Luego se agregó por consola otro registro (Maria Costa):
-![Versión consola del sistema](images/Consola_2.jpg)
+![Consola - nuevo registro](images/Consola_2.jpg)
 
 #### Vuelta a Interfaz Gráfica
-Luego se volvió a la interfaz gráfica y el registro agregado anteriormente por consola persitió: 
+Luego se volvió a la interfaz gráfica y el registro agregado anteriormente por consola persistió: 
 
-![Interfaz GUI de Check-in Aula](images/Gui_2.jpg)
+![Interfaz GUI final](images/Gui_2.jpg)
 
 ## 👨‍💻 Autor
 Desarrollado por la estudiante **Malena Sánchez** como parte de la asignatura **Programación 2** del CERP Sur Oeste, año 2025.
