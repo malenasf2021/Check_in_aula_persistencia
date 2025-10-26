@@ -36,7 +36,7 @@ Para la persistencia de datos en este proyecto educativo, elegí el formato CSV 
 ## Formas de ejecución: 
 El programa se ejecuta por consola o por interfaz gráfica (GUI). 
 
-###Ejecución en consola:
+## Ejecución en consola:
 La ejecución por consola funciona con datos precargados ("hardcodeados") y los que introduce el usuario por consola. Esto sucede cuando la siguiente línea se presenta de la siguiente forma en el archivo App.java. 
 
 ```
