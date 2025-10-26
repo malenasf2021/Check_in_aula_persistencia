@@ -22,7 +22,7 @@ src/edu/cerp/checkin/
 ```
 ## 💾 Sistema de persistencia
 
-### 🧠 Fundamentación de la elección de oersistencia
+### 🧠 Fundamentación de la elección de persistencia
 
 Para la persistencia de datos en este proyecto educativo, elegí el formato CSV por su simplicidad. El CSV permite visualizar directamente los datos almacenados, facilitando la depuración y comprensión del flujo de información para estudiantes. Su compatibilidad con herramientas conocidas como Excel y Google Sheets lo hace ideal para contextos educativos, donde la claridad y accesibilidad son prioritarias sobre el rendimiento. Además, el formato tabular se adapta a la estructura de las inscripciones, manteniendo la separación del diseño original sin introducir complejidades innecesarias.
 
